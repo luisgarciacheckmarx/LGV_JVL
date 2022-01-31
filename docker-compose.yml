@@ -1,3 +1,4 @@
+# LGV_JVL 1
 javavulnlab:
   build: .
   ports:
